@@ -25,5 +25,5 @@ RUBY_EXTERN const char *ruby_copyright;
 #define RUBY_BIRTH_MONTH 2
 #define RUBY_BIRTH_DAY 24
 
-#define RUBY_RELEASE_STR "patchlevel cheerful1"
+#define RUBY_RELEASE_STR "patchlevel cheerful0"
 #define RUBY_RELEASE_NUM RUBY_PATCHLEVEL

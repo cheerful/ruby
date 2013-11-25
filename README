@@ -1,3 +1,13 @@
+***********************************************
+THIS VERSION OF RUBY IS NOT AN OFFICIAL RELEASE
+This release includes a backported patches for
+security issues that where discovered after
+official support for security patches in
+Ruby 1.8.7 ended.
+
+USE THIS CODE AT YOUR OWN RISK
+***********************************************
+
 * What's Ruby
 
 Ruby is the interpreted scripting language for quick and
